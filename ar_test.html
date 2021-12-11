@@ -5,7 +5,8 @@
     <!-- include ar.js for A-Frame -->
     <!-- i<script src="https://raw.githubusercontent.com/dasbrotimofen/test_ar_work/master/aframe/build/aframe-ar.js"></script> -->
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-  
+    <body style="margin : 0px; overflow: hidden;">
+      
         <!--<a-scene embedded arjs='detectionMode: mono_and_matrix; matrixCodeType: 3x3;'></a-scene>-->
         <a-scene embedded arjs='sourceType: webcam; debugUIEnabled: false; detectionMode: mono_and_matrix; matrixCodeType: 3x3;'>
   
@@ -16,15 +17,7 @@
                 gltf-model="https://raw.githack.com/dasbrotimofen/test_ar_work/master/aframe/examples/assets/Dach_with_stuff_02_scale.gltf"
                </a-entity>
           </a-marker>
-          
-          <a-marker id="animated-marker" type='barcode' value='6'>
-              <a-entity
-                position="0 -1 0"
-                scale="0.05 0.05 0.05"
-                gltf-model="https://raw.githack.com/dasbrotimofen/test_ar_work/blob/master/aframe/examples/image-tracking/nft/trex/scene.gltf"                
-              </a-entity>
-          </a-marker> 
-
+         
         <!-- use this <a-entity camera> to support multiple-markers, otherwise use <a-marker-camera> instead of </a-marker> -->
         <a-entity camera></a-entity>
        </a-scene>
