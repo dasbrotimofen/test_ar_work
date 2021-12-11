@@ -5,15 +5,20 @@
     <!-- include ar.js for A-Frame -->
     <!-- i<script src="https://raw.githubusercontent.com/dasbrotimofen/test_ar_work/master/aframe/build/aframe-ar.js"></script> -->
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-        <a-scene arjs='detectionMode: mono_and_matrix; matrixCodeType: 3x3;'></a-scene>
-        <a-marker type='barcode' size='3x3' url='https://raw.githack.com/nicolocarpignoli/artoolkit-barcode-markers-collection/blob/master/3x3/5.png' value='5'></a-marker>
-            <!-- we use cors proxy to avoid cross-origin problems ATTENTION! you need to set up your server -->
+  
+        <a-scene embedded arjs='detectionMode: mono_and_matrix; matrixCodeType: 3x3;'></a-scene>
+  
+        <a-marker type='barcode' value='5'></a-marker>
+     
             <a-entity
-            position="0 -1 0"
-            scale="0.05 0.05 0.05"
-            gltf-model="https://raw.githack.com/dasbrotimofen/test_ar_work/master/aframe/examples/assets/Dach_with_stuff_02_scale.gltf"
+              position="0 -1 0"
+              scale="0.05 0.05 0.05"
+              gltf-model="https://raw.githack.com/dasbrotimofen/test_ar_work/master/aframe/examples/assets/Dach_with_stuff_02_scale.gltf"
+                      
             ></a-entity>
         </a-marker>
+
+        <!-- use this <a-entity camera> to support multiple-markers, otherwise use <a-marker-camera> instead of </a-marker> -->
         <a-entity camera></a-entity>
         </a-scene>
     </body>
