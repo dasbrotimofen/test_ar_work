@@ -9,8 +9,9 @@
         <a-scene 
                  vr-mode-ui="enabled: false;"
                  loading-screen="enabled: false;"
+                 renderer="logarithmicDepthBuffer: true;"
                  embedded 
-                 arjs
+                 arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;"
                  >
           
         <a-marker-camera preset="hiro">
