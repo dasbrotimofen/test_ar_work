@@ -10,9 +10,13 @@ and trying to implement it to work.
 
 link to Web AR html page for testing on android devices.
 
-3x3 number matrix based.
+3x3 number matrix based multiple barcode.
 
 https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_test.html
+
+3x3 number matrix based single barcode.
+
+https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_solo_barcode.html
 
 
 hiro marker based
