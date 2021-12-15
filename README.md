@@ -15,19 +15,26 @@ link to Web AR html page for testing on android devices.
 
 3x3 number matrix based multiple barcode.
 
-https://raw.githack.com/dasbrotimofen/test_ar_work/c72ba605a5df407b364bce6cb23d0ef1b760eb56/ar_test.html
+https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_test.html
+
+Value 1
+
+<p float="left">
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/markers/1_border.png" width="300" />
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/qr_codes_direct/multi_object_qr.png" width="300" />
+</p>
 
 ---
 
 3x3 number matrix based single barcode.
 
-https://raw.githack.com/dasbrotimofen/test_ar_work/02b04d20724f3b614e8e7ba0ed04be49358c83d1/ar_solo_barcode.html
+https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_solo_barcode.html
 
 Value 5
 
 <p float="left">
-<img src="https://github.com/dasbrotimofen/test_ar_work/blob/252498c33242c9e04950fce4070fabb92ef90c8d/markers/5_border.png" width="300" />
-<img src="https://github.com/dasbrotimofen/test_ar_work/blob/b4c4d5726b77d8701485a1b2db4fbac41e1e93ab/qr_codes_direct/solo_object_qr.png" width="300" />
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/markers/5_border.png" width="300" />
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/qr_codes_direct/solo_object_qr.png" width="300" />
 </p>
 
 
@@ -36,10 +43,10 @@ Value 5
 
 hiro marker based
 
-https://raw.githack.com/dasbrotimofen/test_ar_work/02b04d20724f3b614e8e7ba0ed04be49358c83d1/ar_hiro.html
+https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_hiro.html
 
 <p float="left">
-<img src="https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/hiro.png" width="300" /> <img src="https://github.com/dasbrotimofen/test_ar_work/blob/b4c4d5726b77d8701485a1b2db4fbac41e1e93ab/qr_codes_direct/hiro_qr.png" width="300" />
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/markers/markers/hiro.png" width="300" /> <img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/qr_codes_direct/hiro_qr.png" width="300" />
 </p>
 
 
