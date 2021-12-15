@@ -21,13 +21,19 @@ https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_test.html
 
 https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_solo_barcode.html
 
-![](https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/5.png | width=100)
+
+<a>
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/252498c33242c9e04950fce4070fabb92ef90c8d/markers/5_border.png" width="300" />
+</a>
 
 hiro marker based
 
 https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_hiro.html
 
-![](https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/hiro.png | width=100)
+<a>
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/hiro.png" width="300" />
+</a>
+
 
 
 
