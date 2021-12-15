@@ -27,7 +27,7 @@ Value 5
 
 <p float="left">
 <img src="https://github.com/dasbrotimofen/test_ar_work/blob/252498c33242c9e04950fce4070fabb92ef90c8d/markers/5_border.png" width="300" />
-<img src="https://github.com/dasbrotimofen/test_ar_work/blob/bc8fb69b08cdf80c4551c5c0dd63d4f7310776eb/qr_codes/solo_object_qr.png" width="300" />
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/b4c4d5726b77d8701485a1b2db4fbac41e1e93ab/qr_codes_direct/solo_object_qr.png" width="300" />
 </p>
 
 
@@ -39,7 +39,7 @@ hiro marker based
 https://github.com/dasbrotimofen/test_ar_work/blob/02b04d20724f3b614e8e7ba0ed04be49358c83d1/ar_hiro.html
 
 <p float="left">
-<img src="https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/hiro.png" width="300" /> <img src="https://github.com/dasbrotimofen/test_ar_work/blob/bc8fb69b08cdf80c4551c5c0dd63d4f7310776eb/qr_codes/hiro_qr.png" width="300" />
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/hiro.png" width="300" /> <img src="https://github.com/dasbrotimofen/test_ar_work/blob/b4c4d5726b77d8701485a1b2db4fbac41e1e93ab/qr_codes_direct/hiro_qr.png" width="300" />
 </p>
 
 
