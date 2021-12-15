@@ -21,6 +21,7 @@ https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_test.html
 
 https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_solo_barcode.html
 
+Value 5
 
 <a>
 <img src="https://github.com/dasbrotimofen/test_ar_work/blob/252498c33242c9e04950fce4070fabb92ef90c8d/markers/5_border.png" width="300" />
