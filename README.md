@@ -15,11 +15,11 @@ link to Web AR html page for testing on android devices.
 
 3x3 number matrix based multiple barcode.
 
-https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_test.html
+https://github.com/dasbrotimofen/test_ar_work/blob/02b04d20724f3b614e8e7ba0ed04be49358c83d1/ar_test.html
 
 3x3 number matrix based single barcode.
 
-https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_solo_barcode.html
+https://github.com/dasbrotimofen/test_ar_work/blob/02b04d20724f3b614e8e7ba0ed04be49358c83d1/ar_solo_barcode.html
 
 Value 5
 
@@ -29,7 +29,7 @@ Value 5
 
 hiro marker based
 
-https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_hiro.html
+https://github.com/dasbrotimofen/test_ar_work/blob/02b04d20724f3b614e8e7ba0ed04be49358c83d1/ar_hiro.html
 
 <a>
 <img src="https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/hiro.png" width="300" />
