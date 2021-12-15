@@ -11,28 +11,28 @@
         <!-- we add detectionMode and matrixCodeType to tell AR.js to recognize barcode markers -->
         <!--<a-scene embedded arjs='detectionMode: mono_and_matrix; matrixCodeType: 3x3;'></a-scene>-->
         <a-scene   
-		         vr-mode-ui="enabled: false;"
-                 loading-screen="enabled: false;"
-                 renderer="logarithmicDepthBuffer: true; antialias: true;"
-                 embedded 
-                 arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false; detectionMode: mono_and_matrix; matrixCodeType: 3x3;"
+		vr-mode-ui="enabled: false;"
+                loading-screen="enabled: false;"
+                renderer="logarithmicDepthBuffer: true; antialias: true;"
+                embedded 
+                arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false; detectionMode: mono_and_matrix; matrixCodeType: 3x3;"
                  >
           
-          <a-marker-camera type='barcode' value='1'>
+          <a-marker type='barcode' value='1'>
               <a-entity
-                position="0 -1 0"
                 scale="0.05 0.05 0.05"
-                gltf-model="https://raw.githack.com/dasbrotimofen/test_ar_work/master/aframe/examples/image-tracking/nft/trex/scene.gltf">
+                gltf-model="https://raw.githack.com/dasbrotimofen/test_ar_work/master/aframe/examples/assets/plushy_cat/plush_cat.gltf">
                </a-entity>
-          </a-marker-camera>
+          </a-marker>
           
-          <a-marker-camera type='barcode' value='5'>
+          <a-marker type='barcode' value='5'>
             <a-entity
                 scale="0.05 0.05 0.05"
                 gltf-model="https://raw.githack.com/dasbrotimofen/test_ar_work/master/aframe/examples/assets/Dach13122021.gltf">
             </a-entity>
-          </a-marker-camera>
-            
+          </a-marker>
+		
+         <a-entity camera></a-entity>   
        </a-scene>
    </body>
 </html>
