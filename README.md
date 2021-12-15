@@ -46,7 +46,7 @@ hiro marker based
 https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_hiro.html
 
 <p float="left">
-<img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/markers/markers/hiro.png" width="300" /> <img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/qr_codes_direct/hiro_qr.png" width="300" />
+<img src="https://github.com/dasbrotimofen/test_ar_work/blob/master/markers/hiro.png" width="300" /> <img  src="https://github.com/dasbrotimofen/test_ar_work/blob/master/qr_codes_direct/hiro_qr.png" width="300" />
 </p>
 
 
