@@ -1,5 +1,8 @@
 # Repo imported from https://github.com/AR-js-org/AR.js.
 
+
+
+
 I try to test my own WebAR html code.
 
 Took code from:
@@ -19,9 +22,18 @@ https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_test.html
 https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_solo_barcode.html
 
 
+<a>
+  <img src="https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/5.png" />
+</a>
+
 hiro marker based
 
 https://raw.githack.com/dasbrotimofen/test_ar_work/master/ar_hiro.html
+
+
+<a>
+  <img src="https://github.com/dasbrotimofen/test_ar_work/blob/6b04ce3328f6dab12b875d11a8205321aeb840c1/markers/hiro.png" />
+</a>
 
 
 
