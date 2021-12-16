@@ -74,3 +74,9 @@ https://au.gmented.com/app/marker/marker.php
 QR code generator 
 
 https://www.qr-code-generator.com/
+
+---
+# Model Viewer test
+---
+
+https://raw.githack.com/dasbrotimofen/test_ar_work/master/model_viewer_test.html
